@@ -1,0 +1,17 @@
+body {
+    
+    text-align: center;
+}
+.container {
+    width: 30%;
+    padding: 50px;
+}
+button {
+    padding: 200px;
+}
+
+#moving-square {
+    width: 5px;
+    height: 5px;
+    background-color: tomato;
+}
